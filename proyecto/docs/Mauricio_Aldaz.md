@@ -1,1 +1,1 @@
-# Esto es una prueba de Mauricio
+# Este es un archivo de Mauricio
